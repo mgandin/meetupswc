@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DT/!svn/ver/13718/TddLearning/trunk/LegacyCodeWithoutTest/SchedulerDotNet
+END
+DayTime.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DT/!svn/ver/13707/TddLearning/trunk/LegacyCodeWithoutTest/SchedulerDotNet/DayTime.cs
+END
+DotNetScheduler.db
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DT/!svn/ver/13707/TddLearning/trunk/LegacyCodeWithoutTest/SchedulerDotNet/DotNetScheduler.db
+END
+NoteRetriever.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DT/!svn/ver/13718/TddLearning/trunk/LegacyCodeWithoutTest/SchedulerDotNet/NoteRetriever.cs
+END
+Scheduler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DT/!svn/ver/13707/TddLearning/trunk/LegacyCodeWithoutTest/SchedulerDotNet/Scheduler.cs
+END
+Event.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DT/!svn/ver/13707/TddLearning/trunk/LegacyCodeWithoutTest/SchedulerDotNet/Event.cs
+END
+TimeServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DT/!svn/ver/13707/TddLearning/trunk/LegacyCodeWithoutTest/SchedulerDotNet/TimeServices.cs
+END
+MailService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DT/!svn/ver/13718/TddLearning/trunk/LegacyCodeWithoutTest/SchedulerDotNet/MailService.cs
+END
+SchedulerDisplay.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DT/!svn/ver/13707/TddLearning/trunk/LegacyCodeWithoutTest/SchedulerDotNet/SchedulerDisplay.cs
+END
+SchedulerDotNet.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DT/!svn/ver/13707/TddLearning/trunk/LegacyCodeWithoutTest/SchedulerDotNet/SchedulerDotNet.csproj
+END
+Meeting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DT/!svn/ver/13707/TddLearning/trunk/LegacyCodeWithoutTest/SchedulerDotNet/Meeting.cs
+END

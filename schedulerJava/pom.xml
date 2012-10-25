@@ -1,0 +1,29 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.octo</groupId>
+  <artifactId>schedulerjava</artifactId>
+  <packaging>jar</packaging>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Mail Scheduler</name>
+  <dependencies>
+    	<dependency>
+      		<groupId>junit</groupId>
+      		<artifactId>junit</artifactId>
+      		<version>4.4</version>
+      		<scope>test</scope>
+    	</dependency>
+		
+	<dependency>
+      		<groupId>javax.mail</groupId>
+      		<artifactId>mail</artifactId>
+      		<version>1.4.1</version>
+    	</dependency>
+		
+		<dependency>
+      		<groupId>hsqldb</groupId>
+      		<artifactId>hsqldb</artifactId>
+      		<version>1.8.0.7</version>
+    	</dependency>
+		
+  </dependencies>
+</project>
